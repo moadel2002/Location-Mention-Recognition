@@ -80,9 +80,8 @@ The competition required submissions to follow a specific format, with each subm
 
 The primary evaluation metric for the GeoAI Challenge Location Mention Recognition (LMR) was the Root Mean Squared Error (RMSE). RMSE serves as a quantitative measure of the accuracy of our model's predictions in identifying the start and end indices for location mentions within microblogging posts.
 
-Our approach to the GeoAI Challenge Location Mention Recognition task has yielded commendable results, positioning us favorably in the competition. On the Zindi leaderboard, our model achieved a noteworthy score of 12.7.
 
-Our model's remarkable performance, as reflected in the RMSE metric and our placement on the leaderboard, outperforms the baseline solution which is Bert based.
+Our model's remarkable performance, outperforms the baseline model which is Bert based.
 
 | Metric         | Baseline model    |  Our model        |
 | -------------- |:-----------------:|:-----------------:|
