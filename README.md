@@ -88,7 +88,7 @@ Our model's remarkable performance, outperforms the baseline model which is Bert
 | RMSE           | 13.99             | 12.7              |
 
 
-The second phase evaluation was based on f1 score which was private and our model achieved the highest f1 score among all solutions.
+The second private phase evaluation was based on F1 score and our model achieved the highest F1 score among all solutions.
 
 ## How to Use
 To utilize our solution, follow these steps:
